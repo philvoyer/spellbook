@@ -12,6 +12,8 @@ SPC q R
 M-m
 ** quit
 C-x C-c
+** find file
+C-x C-f
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
