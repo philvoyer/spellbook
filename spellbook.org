@@ -8,4 +8,6 @@ SPC q q
 ** restart
 SPC q R
 * chapter 2 - emacs (holy mode)
+** leader key
+M-m
 * chapter 3 - emacs (evil mode)
