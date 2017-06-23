@@ -3,5 +3,7 @@
 * chapter 1 - spacemacs
 ** leader key
 SPC
+** quit
+SPC q q
 * chapter 2 - emacs (holy mode)
 * chapter 3 - emacs (evil mode)
