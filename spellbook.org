@@ -13,3 +13,5 @@ M-m
 ** quit
 C-x C-c
 * chapter 3 - emacs (evil mode)
+** quit
+:q
