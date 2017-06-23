@@ -18,6 +18,8 @@ C-x C-f
 C-x C-s
 ** save all
 C-x s
+** save as
+C-x C-w
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
