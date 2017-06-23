@@ -10,4 +10,6 @@ SPC q R
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
+** quit
+C-x C-c
 * chapter 3 - emacs (evil mode)
