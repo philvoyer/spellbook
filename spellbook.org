@@ -16,6 +16,8 @@ C-x C-c
 C-x C-f
 ** save buffer
 C-x C-s
+** save all
+C-x s
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
