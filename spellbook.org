@@ -1,5 +1,7 @@
 #+TITLE: spellbook
 
 * chapter 1 - spacemacs
+** leader key
+SPC
 * chapter 2 - emacs (holy mode)
 * chapter 3 - emacs (evil mode)
