@@ -14,6 +14,8 @@ M-m
 C-x C-c
 ** find file
 C-x C-f
+** save buffer
+C-x C-s
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
