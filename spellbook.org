@@ -31,3 +31,5 @@ e
 b
 ** move to end of line
 $ (S-4)
+** move to matching parenthese
+% (S-5)
