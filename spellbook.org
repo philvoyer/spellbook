@@ -23,3 +23,5 @@ C-x C-w
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
+** next word begin
+w
