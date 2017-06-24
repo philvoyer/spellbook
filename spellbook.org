@@ -25,3 +25,5 @@ C-x C-w
 :q
 ** next word begin
 w
+** next word end 
+e
