@@ -33,3 +33,5 @@ b
 $ (S-4)
 ** move to matching parenthese
 % (S-5)
+** move to beginning of line 
+^ (S-6) / 0
