@@ -13,6 +13,8 @@ SPC f e d
 SPC f e R
 ** find file
 SPC f f
+** kill all other buffers
+SPC b m
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
