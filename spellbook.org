@@ -11,6 +11,8 @@ SPC q R
 SPC f e d
 ** reload dotfile
 SPC f e R
+** find file
+SPC f f
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
