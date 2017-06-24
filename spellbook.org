@@ -29,3 +29,5 @@ w
 e
 ** previous word begin
 b
+** move to end of line
+$ (S-4)
