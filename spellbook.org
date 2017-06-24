@@ -9,6 +9,8 @@ SPC q q
 SPC q R
 ** open dotfile
 SPC f e d
+** reload dotfile
+SPC f e R
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
