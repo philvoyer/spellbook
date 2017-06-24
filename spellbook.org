@@ -27,3 +27,5 @@ C-x C-w
 w
 ** next word end 
 e
+** previous word begin
+b
