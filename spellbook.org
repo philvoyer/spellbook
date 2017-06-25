@@ -44,3 +44,5 @@ $ (S-4)
 ** move to beginning of line 
 ^ (S-6) / 0
 * chapter 4 - clojure
+** cider jack in
+C-c M-j
