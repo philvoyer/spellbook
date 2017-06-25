@@ -50,3 +50,5 @@ C-c M-j
 C-c C-q
 ** switch to repl
 C-c C-z
+** set namespace
+C-c M-n
