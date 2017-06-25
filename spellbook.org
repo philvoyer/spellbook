@@ -48,3 +48,5 @@ $ (S-4)
 C-c M-j
 ** cider quit
 C-c C-q
+** switch to repl
+C-c C-z
