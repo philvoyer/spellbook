@@ -6,3 +6,4 @@ Written in a single .org file, thus enabling quick and easy searches in a foldab
 ## chapter 1 - spacemacs
 ## chapter 2 - emacs (holy mode)
 ## chapter 3 - emacs (evil mode)
+## chapter 4 - clojure
