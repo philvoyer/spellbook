@@ -46,3 +46,5 @@ $ (S-4)
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
+** cider quit
+C-c C-q
