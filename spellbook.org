@@ -17,6 +17,8 @@ SPC f f
 SPC h d v
 ** describe function 
 SPC h d f
+** describe key binding
+SPC h d k
 ** kill all other buffers
 SPC b m
 * chapter 2 - emacs (holy mode)
