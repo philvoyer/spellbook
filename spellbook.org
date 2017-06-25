@@ -43,3 +43,4 @@ $ (S-4)
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
+* chapter 4 - clojure
