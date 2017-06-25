@@ -52,3 +52,5 @@ C-c C-q
 C-c C-z
 ** set namespace
 C-c M-n
+** evaluate buffer
+C-c C-k
