@@ -60,3 +60,5 @@ C-c C-z
 C-c M-n
 ** evaluate buffer
 C-c C-k
+** evaluate function
+C-c C-c
