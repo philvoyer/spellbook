@@ -57,6 +57,8 @@ $ (S-4)
 ^ (S-6) / 0
 ** line select
 V (S-v)
+** line delete
+dd
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
