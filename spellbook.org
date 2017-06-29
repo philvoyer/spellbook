@@ -61,6 +61,8 @@ V (S-v)
 dd
 ** word delete
 dw
+** character delete
+x
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
