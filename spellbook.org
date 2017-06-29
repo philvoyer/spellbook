@@ -77,6 +77,8 @@ dd
 ddp
 ** line swap previous
 ddkkp
+** line join
+J (S-j)
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
