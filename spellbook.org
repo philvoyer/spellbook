@@ -23,6 +23,8 @@ SPC h d k
 SPC b m
 ** kill ring
 SPC r y
+** undo tree
+SPC a u
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
