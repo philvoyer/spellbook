@@ -73,8 +73,8 @@ dawbP
 V (S-v)
 ** line delete
 dd
-** line swap next
-ddp
+** line swap previous
+ddkkp
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
