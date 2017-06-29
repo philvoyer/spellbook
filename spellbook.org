@@ -43,24 +43,24 @@ C-x C-w
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
-** next word begin
-w
-** next word end 
-e
-** previous word begin
-b
 ** move to end of line
 $ (S-4)
 ** move to matching parenthese
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
+** word next begin
+w
+** word next end 
+e
+** word previous begin
+b
+** word delete
+dw
 ** line select
 V (S-v)
 ** line delete
 dd
-** word delete
-dw
 ** character delete
 x
 ** character delete previous
