@@ -25,6 +25,8 @@ SPC b m
 SPC r y
 ** undo tree
 SPC a u
+** magit status
+SPC g s
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
