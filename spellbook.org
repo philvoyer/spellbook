@@ -57,11 +57,13 @@ e
 b
 ** word delete
 dw
+** word swap next
+dawwP
 ** line select
 V (S-v)
 ** line delete
 dd
-** character delete next
+** delete next
 x
 ** character delete previous
 X (S-x)
