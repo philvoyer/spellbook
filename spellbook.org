@@ -49,6 +49,14 @@ $ (S-4)
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
+** character delete next
+x
+** character delete previous
+X (S-x)
+** character swap next 
+xp
+** character swap previous
+Xp
 ** word next begin
 w
 ** word next end 
@@ -65,14 +73,8 @@ dawbP
 V (S-v)
 ** line delete
 dd
-** character delete next
-x
-** character delete previous
-X (S-x)
-** character swap next 
-xp
-** character swap previous
-Xp
+** line swap next
+ddp
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
