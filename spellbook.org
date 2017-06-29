@@ -63,6 +63,8 @@ dd
 dw
 ** character delete
 x
+** character delete previous
+X (S-x)
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
