@@ -21,6 +21,8 @@ SPC h d f
 SPC h d k
 ** kill all other buffers
 SPC b m
+** kill ring
+SPC r y
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
