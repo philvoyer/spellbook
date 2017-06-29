@@ -67,6 +67,8 @@ x
 X (S-x)
 ** character swap next 
 xp
+** character swap previous
+Xp
 * chapter 4 - clojure
 ** cider jack in
 C-c M-j
