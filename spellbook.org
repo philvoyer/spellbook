@@ -61,7 +61,7 @@ dw
 V (S-v)
 ** line delete
 dd
-** character delete
+** character delete next
 x
 ** character delete previous
 X (S-x)
