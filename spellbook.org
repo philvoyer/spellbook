@@ -65,7 +65,7 @@ dawbP
 V (S-v)
 ** line delete
 dd
-** delete next
+** character delete next
 x
 ** character delete previous
 X (S-x)
