@@ -59,6 +59,8 @@ b
 dw
 ** word swap next
 dawwP
+** word swap previous
+dawbP
 ** line select
 V (S-v)
 ** line delete
