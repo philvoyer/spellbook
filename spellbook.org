@@ -83,7 +83,8 @@ ddp
 ddkkp
 ** line join
 J (S-j)
-* chapter 4 - clojure
+* chapter 4 - git
+* chapter 5 - clojure
 ** cider jack in
 C-c M-j
 ** cider quit
