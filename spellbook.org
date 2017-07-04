@@ -90,6 +90,8 @@ c c
 , ,
 ** pull
 F u
+** push
+P u
 * chapter 5 - clojure
 ** cider jack in
 C-c M-j
