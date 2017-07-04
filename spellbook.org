@@ -84,6 +84,8 @@ J (S-j)
 * chapter 4 - git
 ** magit status
 SPC g s 
+** commit
+c c
 * chapter 5 - clojure
 ** cider jack in
 C-c M-j
