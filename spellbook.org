@@ -88,6 +88,8 @@ SPC g s
 c c
 ** commit message
 , ,
+** pull
+F u
 * chapter 5 - clojure
 ** cider jack in
 C-c M-j
