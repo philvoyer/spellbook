@@ -27,6 +27,8 @@ SPC r y
 SPC a u
 ** magit status
 SPC g s
+** open shell
+SPC '
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
