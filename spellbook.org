@@ -25,8 +25,6 @@ SPC b m
 SPC r y
 ** undo tree
 SPC a u
-** magit status
-SPC g s
 ** open shell
 SPC '
 * chapter 2 - emacs (holy mode)
@@ -84,6 +82,8 @@ ddkkp
 ** line join
 J (S-j)
 * chapter 4 - git
+** magit status
+SPC g s 
 * chapter 5 - clojure
 ** cider jack in
 C-c M-j
