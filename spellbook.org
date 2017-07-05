@@ -81,6 +81,8 @@ ddp
 ddkkp
 ** line join
 J (S-j)
+** combo delete around word
+daw
 * chapter 4 - git
 ** magit status
 SPC g s 
