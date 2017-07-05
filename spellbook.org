@@ -67,6 +67,8 @@ e
 b
 ** word delete
 dw
+** word delete around
+daw
 ** word swap next
 dawwP
 ** word swap previous
@@ -81,8 +83,6 @@ ddp
 ddkkp
 ** line join
 J (S-j)
-** combo delete around word
-daw
 * chapter 4 - git
 ** magit status
 SPC g s 
