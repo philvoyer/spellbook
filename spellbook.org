@@ -89,6 +89,8 @@ i
 a
 ** mode append at end of line
 A
+** mode visual
+v
 * chapter 4 - git
 ** magit status
 SPC g s 
