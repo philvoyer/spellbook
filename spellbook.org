@@ -53,6 +53,8 @@ gg
 G (S-g)
 ** move left down up right
 h j k l
+** move to line first last middle
+H L M
 ** move to end of line
 $ (S-4)
 ** move to matching parenthese
