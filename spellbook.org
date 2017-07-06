@@ -83,6 +83,8 @@ ddp
 ddkkp
 ** line join
 J (S-j)
+** line duplicate
+yyp
 ** mode insert
 i
 ** mode append
