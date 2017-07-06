@@ -83,6 +83,8 @@ ddp
 ddkkp
 ** line join
 J (S-j)
+** mode insert
+i
 * chapter 4 - git
 ** magit status
 SPC g s 
