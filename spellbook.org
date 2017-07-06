@@ -85,6 +85,8 @@ ddkkp
 J (S-j)
 ** mode insert
 i
+** mode append
+a
 * chapter 4 - git
 ** magit status
 SPC g s 
