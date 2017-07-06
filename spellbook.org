@@ -51,6 +51,8 @@ M-g M-g
 gg
 ** buffer end
 G (S-g)
+** move left down up right
+h j k l
 ** move to end of line
 $ (S-4)
 ** move to matching parenthese
