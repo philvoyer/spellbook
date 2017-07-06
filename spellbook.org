@@ -42,6 +42,8 @@ C-x s
 C-x C-w
 ** query replace
 M-%
+** go to line
+M-g M-g
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
