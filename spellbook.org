@@ -45,6 +45,8 @@ M-%
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
+** buffer begin
+gg
 ** move to end of line
 $ (S-4)
 ** move to matching parenthese
