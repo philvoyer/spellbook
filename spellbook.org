@@ -47,6 +47,8 @@ M-%
 :q
 ** buffer begin
 gg
+** buffer end
+G (S-g)
 ** move to end of line
 $ (S-4)
 ** move to matching parenthese
