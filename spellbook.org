@@ -87,6 +87,8 @@ J (S-j)
 i
 ** mode append
 a
+** mode append at end of line
+A
 * chapter 4 - git
 ** magit status
 SPC g s 
