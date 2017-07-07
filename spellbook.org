@@ -97,6 +97,8 @@ J (S-j)
 yyp
 ** mode insert
 i
+** mode insert exit
+ESC / f d (quickly)
 ** mode append
 a
 ** mode append at end of line
