@@ -107,6 +107,8 @@ A
 v
 ** mode visual select line
 V (S-v)
+** search forward
+/
 * chapter 4 - git
 ** magit status
 SPC g s 
