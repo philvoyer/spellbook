@@ -109,6 +109,8 @@ v
 V (S-v)
 ** search forward
 /
+** search word under point
+(S-8) *
 ** search highlight clear
 SPC s c
 * chapter 4 - git
