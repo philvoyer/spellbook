@@ -7,6 +7,8 @@ SPC
 SPC q q
 ** restart
 SPC q R
+** spacemacs version
+SPC f e v
 ** open dotfile
 SPC f e d
 ** reload dotfile
