@@ -99,6 +99,8 @@ J (S-j)
 yyp
 ** undo
 u
+** redo
+C-R (C-S-r)
 ** mode insert
 i
 ** mode insert exit
