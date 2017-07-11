@@ -111,6 +111,8 @@ v
 V (S-v)
 ** search forward
 /
+** search backward
+? (S-/)
 ** search word under point
 (S-8) *
 ** search highlight clear
