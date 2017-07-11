@@ -97,6 +97,8 @@ ddkkp
 J (S-j)
 ** line duplicate
 yyp
+** undo
+u
 ** mode insert
 i
 ** mode insert exit
