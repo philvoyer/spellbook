@@ -29,6 +29,8 @@ SPC r y
 SPC a u
 ** open shell
 SPC '
+** toggle line numbers
+SPC t n
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
