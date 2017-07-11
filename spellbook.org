@@ -59,7 +59,7 @@ h j k l
 H L M
 ** move to end of line
 $ (S-4)
-** move to matching parenthese
+** move to matching parenthesis
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
