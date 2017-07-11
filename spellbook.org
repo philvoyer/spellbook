@@ -65,6 +65,8 @@ $ (S-4)
 ^ (S-6) / 0
 ** scroll up 
 C-u
+** scroll down
+C-d
 ** character delete next
 x
 ** character delete previous
