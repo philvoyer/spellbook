@@ -115,6 +115,8 @@ V (S-v)
 ? (S-/)
 ** search word under point
 (S-8) *
+** search word under point unbound
+g*
 ** search highlight clear
 SPC s c
 * chapter 4 - git
