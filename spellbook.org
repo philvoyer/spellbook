@@ -63,10 +63,10 @@ $ (S-4)
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
-** move to section begin backward
-[[
 ** move to section begin forward
 ]]
+** move to section begin backward
+[[
 ** scroll up 
 C-u
 ** scroll down
