@@ -63,6 +63,8 @@ $ (S-4)
 % (S-5)
 ** move to beginning of line 
 ^ (S-6) / 0
+** scroll up 
+C-u
 ** character delete next
 x
 ** character delete previous
