@@ -103,6 +103,8 @@ J (S-j)
 yyp
 ** line open below
 o
+** line open above
+O (S-o)
 ** undo
 u
 ** redo
