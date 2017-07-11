@@ -101,6 +101,8 @@ ddkkp
 J (S-j)
 ** line duplicate
 yyp
+** line open below
+o
 ** undo
 u
 ** redo
