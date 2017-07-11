@@ -67,6 +67,8 @@ $ (S-4)
 ) (S-0)
 ** move to sentence backward
 ( (S-9)
+** move to paragraph forward
+} (S-])
 ** move to section begin forward
 ]]
 ** move to section begin backward
