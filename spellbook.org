@@ -35,6 +35,8 @@ SPC t n
 SPC w M
 ** helm mini
 SPC b b
+** cycle theme
+SPC T n
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
