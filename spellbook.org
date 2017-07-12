@@ -37,6 +37,8 @@ SPC w M
 SPC b b
 ** cycle theme
 SPC T n
+** search web
+SPC a /
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
