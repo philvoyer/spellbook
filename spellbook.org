@@ -31,6 +31,8 @@ SPC a u
 SPC '
 ** toggle line numbers
 SPC t n
+** window swap
+SPC w M
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
