@@ -39,6 +39,8 @@ SPC b b
 SPC T n
 ** search web
 SPC a /
+** count region
+SPC x c
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
