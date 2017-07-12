@@ -33,6 +33,8 @@ SPC '
 SPC t n
 ** window swap
 SPC w M
+** helm mini
+SPC b b
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
