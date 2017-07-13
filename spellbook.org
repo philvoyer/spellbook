@@ -41,6 +41,8 @@ SPC T n
 SPC a /
 ** count region
 SPC x c
+** delete trailing whitespace
+SPC x d w
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
