@@ -60,6 +60,8 @@ C-x C-w
 M-%
 ** go to line
 M-g M-g
+** search occurrences 
+M-s o
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
