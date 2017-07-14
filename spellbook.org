@@ -89,6 +89,8 @@ $ (S-4)
 ]]
 ** move to section begin backward
 [[
+** jump backward
+C-o
 ** scroll up 
 C-u
 ** scroll down
