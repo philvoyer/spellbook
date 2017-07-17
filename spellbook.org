@@ -105,6 +105,8 @@ X (S-x)
 xp
 ** character swap previous
 Xp
+** big word next begin
+W
 ** word next begin
 w
 ** word next end 
