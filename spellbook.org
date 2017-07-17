@@ -62,6 +62,8 @@ M-%
 M-g M-g
 ** search occurrences 
 M-s o
+** recenter top bottom
+C-l
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
