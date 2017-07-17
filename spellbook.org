@@ -99,6 +99,8 @@ C-u
 C-d
 ** scroll center
 zz
+** scroll top
+zt
 ** character delete next
 x
 ** character delete previous
