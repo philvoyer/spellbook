@@ -101,6 +101,8 @@ C-d
 zz
 ** scroll top
 zt
+** scroll bottom
+zb
 ** character delete next
 x
 ** character delete previous
