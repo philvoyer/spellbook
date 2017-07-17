@@ -107,6 +107,8 @@ xp
 Xp
 ** big word next begin
 W
+** big word next end 
+E
 ** word next begin
 w
 ** word next end 
