@@ -97,6 +97,8 @@ C-o
 C-u
 ** scroll down
 C-d
+** scroll center
+zz
 ** character delete next
 x
 ** character delete previous
