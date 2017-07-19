@@ -43,6 +43,8 @@ SPC a /
 SPC x c
 ** delete trailing whitespace
 SPC x d w
+** spell check toggle
+SPC t S
 ** spell check change dictionary
 SPC S d
 * chapter 2 - emacs (holy mode)
