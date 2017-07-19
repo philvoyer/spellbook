@@ -47,6 +47,8 @@ SPC x d w
 SPC t S
 ** spell check change dictionary
 SPC S d
+** spell check buffer 
+SPC S b
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
