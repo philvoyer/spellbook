@@ -49,6 +49,8 @@ SPC t S
 SPC S d
 ** spell check buffer 
 SPC S b
+** spell check correct word at point
+C-c $
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
