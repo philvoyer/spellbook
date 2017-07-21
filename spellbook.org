@@ -113,6 +113,8 @@ zz
 zt
 ** scroll bottom
 zb
+** yank
+y
 ** character delete next
 x
 ** character delete previous
