@@ -66,6 +66,8 @@ C-x s
 C-x C-w
 ** cut
 C-w
+** copy
+M-w
 ** query replace
 M-%
 ** go to line
