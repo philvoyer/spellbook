@@ -115,6 +115,8 @@ zt
 zb
 ** yank
 y
+** paste
+p
 ** character delete next
 x
 ** character delete previous
