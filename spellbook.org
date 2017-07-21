@@ -127,6 +127,8 @@ y
 p
 ** paste pop
 C-p
+** paste pop next
+C-n
 ** character delete next
 x
 ** character delete previous
