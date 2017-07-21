@@ -127,6 +127,8 @@ W
 E
 ** big word previous begin
 B
+** big word yank around
+yaW
 ** word next begin
 w
 ** word next end 
