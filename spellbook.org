@@ -133,6 +133,8 @@ w
 e
 ** word previous begin
 b
+** word yank around
+yaw
 ** word delete
 dw
 ** word delete around
