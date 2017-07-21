@@ -64,6 +64,8 @@ C-x C-s
 C-x s
 ** save as
 C-x C-w
+** cut
+C-w
 ** query replace
 M-%
 ** go to line
