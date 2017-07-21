@@ -70,6 +70,8 @@ C-w
 M-w
 ** paste
 C-y
+** paste pop
+M-y
 ** query replace
 M-%
 ** go to line
