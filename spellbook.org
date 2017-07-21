@@ -68,6 +68,8 @@ C-x C-w
 C-w
 ** copy
 M-w
+** paste
+C-y
 ** query replace
 M-%
 ** go to line
