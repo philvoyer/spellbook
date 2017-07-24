@@ -33,6 +33,8 @@ SPC '
 SPC t n
 ** window layout 2 columns
 SPC w 2
+** window layout 3 columns
+SPC w 3
 ** window swap
 SPC w M
 ** helm mini
