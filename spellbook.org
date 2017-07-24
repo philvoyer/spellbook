@@ -35,6 +35,8 @@ SPC t n
 SPC w 2
 ** window layout 3 columns
 SPC w 3
+** window balance
+SPC w =
 ** window swap
 SPC w M
 ** helm mini
