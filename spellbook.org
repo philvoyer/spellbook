@@ -225,6 +225,8 @@ P u
 * chapter 5 - clojure
 ** cider jack in
 C-c M-j
+** cider jack in cljs
+C-c M-J
 ** cider quit
 C-c C-q
 ** switch to repl
