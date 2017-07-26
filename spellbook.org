@@ -241,3 +241,5 @@ C-c C-c
 C-c M-o
 ** cider repl kill from prompt to point
 C-c C-u
+** cider repl interrupt evaluation
+C-c C-c
