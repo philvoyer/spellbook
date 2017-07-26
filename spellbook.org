@@ -229,7 +229,7 @@ C-c M-j / , '
 C-c M-J / , "
 ** cider quit
 C-c C-q
-** switch to repl
+** switch to (repl / code)
 C-c C-z
 ** set namespace
 C-c M-n
