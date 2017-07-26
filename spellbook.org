@@ -237,3 +237,5 @@ C-c M-n
 C-c C-k
 ** evaluate function
 C-c C-c
+** cider repl switch (clj / cljs) 
+C-c M-o
