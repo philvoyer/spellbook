@@ -1,5 +1,5 @@
 # spellbook
-A book of keyboard to spell bindings.
+A book of keyboard to spell bindings for (spacemacs).
 
 Written in a single .org file, thus enabling quick and easy searches in a foldable spellbook.
 
