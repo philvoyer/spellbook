@@ -189,6 +189,8 @@ o
 O (S-o)
 ** section previous up
 gh
+** section next same level
+gj
 ** undo
 u
 ** redo
