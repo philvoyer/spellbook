@@ -193,6 +193,8 @@ gh
 gj
 ** section previous same level
 gk
+** section next visible
+gl
 ** undo
 u
 ** redo
