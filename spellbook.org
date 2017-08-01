@@ -187,6 +187,8 @@ yyp
 o
 ** line open above
 O (S-o)
+** section previous up
+gh
 ** undo
 u
 ** redo
