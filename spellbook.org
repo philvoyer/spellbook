@@ -21,6 +21,8 @@ SPC f f
 SPC b b
 ** revert buffer
 SPC b R
+** buffer transient state
+SPC b .
 ** project file tree
 SPC f t
 ** describe variable 
