@@ -25,9 +25,9 @@ SPC b R
 SPC b .
 ** project file tree
 SPC f t
-** describe variable 
+** describe variable
 SPC h d v
-** describe function 
+** describe function
 SPC h d f
 ** describe key binding
 SPC h d k
@@ -63,7 +63,7 @@ SPC x d w
 SPC t S
 ** spell check change dictionary
 SPC S d
-** spell check buffer 
+** spell check buffer
 SPC S b
 ** spell check correct word at point
 C-c $
@@ -94,7 +94,7 @@ M-y
 M-%
 ** go to line
 M-g M-g
-** search occurrences 
+** search occurrences
 M-s o
 ** recenter top bottom
 C-l
@@ -113,7 +113,7 @@ H L M
 $ (S-4)
 ** move to matching parenthesis
 % (S-5)
-** move to beginning of line 
+** move to beginning of line
 ^ (S-6) / 0
 ** move to sentence forward
 ) (S-0)
@@ -129,11 +129,11 @@ $ (S-4)
 [[
 ** jump backward
 C-o
-** scroll up 
+** scroll up
 C-u
 ** scroll down
 C-d
-** scroll page up 
+** scroll page up
 C-b
 ** scroll page down
 C-f
@@ -155,13 +155,13 @@ C-n
 x
 ** character delete previous
 X (S-x)
-** character swap next 
+** character swap next
 xp
 ** character swap previous
 Xp
 ** big word next begin
 W
-** big word next end 
+** big word next end
 E
 ** big word previous begin
 B
@@ -169,7 +169,7 @@ B
 yaW
 ** word next begin
 w
-** word next end 
+** word next end
 e
 ** word previous begin
 b
@@ -235,7 +235,7 @@ g*
 SPC s c
 * chapter 4 - git
 ** magit status
-SPC g s 
+SPC g s
 ** commit
 c c
 ** commit message
@@ -259,7 +259,7 @@ C-c M-n
 C-c C-k
 ** evaluate function
 C-c C-c
-** cider repl switch (clj / cljs) 
+** cider repl switch (clj / cljs)
 C-c M-o
 ** cider repl kill from prompt to point
 C-c C-u
