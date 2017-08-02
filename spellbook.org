@@ -139,6 +139,8 @@ C-b
 C-f
 ** scroll line up
 C-y
+** scroll line down
+C-e
 ** scroll center
 zz
 ** scroll top
