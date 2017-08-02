@@ -135,6 +135,8 @@ C-u
 C-d
 ** scroll page up 
 C-b
+** scroll page down
+C-f
 ** scroll center
 zz
 ** scroll top
