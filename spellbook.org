@@ -104,6 +104,8 @@ M-s o
 C-l
 ** window balance
 C-w =
+** scroll up
+M-v
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
