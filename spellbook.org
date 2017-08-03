@@ -94,6 +94,8 @@ M-y
 M-%
 ** go to line
 M-g M-g
+** move to beginning of line
+C-a
 ** search occurrences
 M-s o
 ** recenter top bottom
