@@ -82,6 +82,8 @@ C-x s
 C-x C-w
 ** window balance
 C-w =
+** selection mark
+C-SPC
 ** cut
 C-w
 ** copy
