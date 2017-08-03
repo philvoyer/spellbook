@@ -80,8 +80,6 @@ C-x C-s
 C-x s
 ** save as
 C-x C-w
-** window balance
-C-w =
 ** selection mark
 C-SPC
 ** cut
@@ -104,6 +102,8 @@ C-e
 M-s o
 ** recenter top bottom
 C-l
+** window balance
+C-w =
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
