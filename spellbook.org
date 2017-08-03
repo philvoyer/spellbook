@@ -106,6 +106,8 @@ C-l
 C-w =
 ** scroll up
 M-v
+** scroll down
+C-v
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
