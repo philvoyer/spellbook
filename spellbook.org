@@ -82,6 +82,8 @@ C-x s
 C-x C-w
 ** buffer list
 C-x C-b
+** buffer helm
+C-x b
 ** selection mark
 C-SPC
 ** cut
