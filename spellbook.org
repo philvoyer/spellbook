@@ -102,6 +102,8 @@ C-e
 M-s o
 ** recenter top bottom
 C-l
+** window split horizontal
+C-x 3
 ** window balance
 C-w =
 ** scroll up
