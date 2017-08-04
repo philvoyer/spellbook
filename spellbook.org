@@ -102,6 +102,8 @@ C-e
 M-s o
 ** recenter top bottom
 C-l
+** window split vertical 
+C-x 2
 ** window split horizontal
 C-x 3
 ** window balance
