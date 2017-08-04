@@ -80,6 +80,8 @@ C-x C-s
 C-x s
 ** save as
 C-x C-w
+** buffer list
+C-x C-b
 ** selection mark
 C-SPC
 ** cut
