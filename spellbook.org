@@ -102,7 +102,9 @@ C-e
 M-s o
 ** recenter top bottom
 C-l
-** window split vertical 
+** window delete
+C-x 0
+** window split vertical
 C-x 2
 ** window split horizontal
 C-x 3
