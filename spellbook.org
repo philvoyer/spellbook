@@ -292,3 +292,5 @@ C-c C-u
 ** cider repl interrupt evaluation
 C-c C-c
 * chapter 6 - c++
+** compile 
+SPC c C
