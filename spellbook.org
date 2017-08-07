@@ -249,6 +249,8 @@ A
 v
 ** visual select line
 V (S-v)
+** visual block
+C-v
 ** search forward
 /
 ** search backward
