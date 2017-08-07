@@ -294,3 +294,5 @@ C-c C-c
 * chapter 6 - c++
 ** compile 
 SPC c C
+** make
+SPC c c
