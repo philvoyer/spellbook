@@ -247,7 +247,7 @@ a
 A
 ** mode visual
 v
-** mode visual select line
+** visual select line
 V (S-v)
 ** search forward
 /
