@@ -289,3 +289,4 @@ C-c M-o
 C-c C-u
 ** cider repl interrupt evaluation
 C-c C-c
+* chapter 6 - c++
