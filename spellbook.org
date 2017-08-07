@@ -86,6 +86,8 @@ C-x C-b
 C-x b
 ** selection mark
 C-SPC
+** rectangle mark
+C-x SPC
 ** cut
 C-w
 ** copy
