@@ -269,6 +269,8 @@ F u
 ** push
 P u
 * chapter 5 - clojure
+** cider shortcuts
+, ,
 ** cider jack in
 C-c M-j / , '
 ** cider jack in cljs
