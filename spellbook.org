@@ -139,6 +139,8 @@ $ (S-4)
 % (S-5)
 ** move to first non-blank (same line)
 ^ (S-6)
+** move to first non-blank (previous line)
+-
 ** move to sentence forward
 ) (S-0)
 ** move to sentence backward
