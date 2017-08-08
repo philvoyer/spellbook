@@ -213,6 +213,8 @@ dawwP
 dawbP
 ** line select
 V (S-v)
+** line yank
+yy
 ** line delete
 dd
 ** line swap next
