@@ -151,6 +151,8 @@ $ (S-4)
 [[
 ** jump backward
 C-o
+** jump forward
+C-i
 ** scroll up
 C-u
 ** scroll down
