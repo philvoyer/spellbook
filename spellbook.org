@@ -57,6 +57,8 @@ SPC T n
 SPC a /
 ** count region
 SPC x c
+** edit multiple
+SPC s e
 ** delete trailing whitespace
 SPC x d w
 ** spell check toggle
