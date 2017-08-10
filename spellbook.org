@@ -61,6 +61,8 @@ SPC x c
 SPC s e
 ** delete trailing whitespace
 SPC x d w
+** jump to overview
+SPC j i
 ** spell check toggle
 SPC t S
 ** spell check change dictionary
