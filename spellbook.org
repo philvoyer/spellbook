@@ -69,6 +69,8 @@ SPC S d
 SPC S b
 ** spell check correct word at point
 C-c $
+** show message buffer
+SPC w p m
 ** close popup window
 SPC w p p
 * chapter 2 - emacs (holy mode)
