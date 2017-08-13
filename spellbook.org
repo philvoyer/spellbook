@@ -75,6 +75,8 @@ C-c $
 SPC w p m
 ** close popup window
 SPC w p p
+** sort lines
+SPC x l s
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
