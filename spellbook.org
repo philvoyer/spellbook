@@ -290,6 +290,8 @@ S-TAB
 C-RET
 ** add headline (todo)
 S-M-RET
+** move headline up
+M-k / M-up
 ** cycle headline state
 C-c C-t / t
 ** toggle checkbox state
