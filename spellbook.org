@@ -284,9 +284,9 @@ SPC s c
 * chapter 4 - org
 
 ** cycle outline modes (local)
-tab
+TAB
 ** cycle outline modes (document)
-S-tab
+S-TAB
 * chapter 5 - git
 ** magit status
 SPC g s
