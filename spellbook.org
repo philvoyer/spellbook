@@ -287,6 +287,8 @@ SPC s c
 TAB
 ** cycle outline modes (document)
 S-TAB
+** add heading
+C-RET
 * chapter 5 - git
 ** magit status
 SPC g s
