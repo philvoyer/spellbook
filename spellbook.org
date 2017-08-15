@@ -293,6 +293,8 @@ C-RET
 S-M-RET
 ** cycle headline state
 C-c C-t / t
+** toggle checkbox state
+C-c C-c
 ** update counter (single)
 C-c #
 ** update counter (all)
