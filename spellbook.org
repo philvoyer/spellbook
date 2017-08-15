@@ -293,6 +293,8 @@ C-RET
 S-M-RET
 ** update counter (single)
 C-c #
+** update counter (all)
+C-u C-c C-#
 * chapter 5 - git
 ** magit status
 SPC g s
