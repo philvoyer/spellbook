@@ -292,6 +292,8 @@ C-RET
 S-M-RET
 ** move headline up
 M-k / M-up
+** move headline down
+M-j / M-down
 ** cycle headline state
 C-c C-t / t
 ** toggle checkbox state
