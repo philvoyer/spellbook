@@ -289,6 +289,8 @@ TAB
 S-TAB
 ** add heading
 C-RET
+** add heading (todo)
+S-M-RET
 * chapter 5 - git
 ** magit status
 SPC g s
