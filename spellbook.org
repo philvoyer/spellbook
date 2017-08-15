@@ -282,7 +282,6 @@ g*
 ** search highlight clear
 SPC s c
 * chapter 4 - org
-
 ** cycle outline modes (local)
 TAB
 ** cycle outline modes (document)
