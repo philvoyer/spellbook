@@ -291,6 +291,8 @@ S-TAB
 C-RET
 ** add headline (todo)
 S-M-RET
+** cycle headline state
+C-c C-t / t
 ** update counter (single)
 C-c #
 ** update counter (all)
