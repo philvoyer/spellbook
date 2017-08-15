@@ -281,7 +281,8 @@ C-v
 g*
 ** search highlight clear
 SPC s c
-* chapter 4 - git
+* chapter 4 - org
+* chapter 5 - git
 ** magit status
 SPC g s
 ** commit
@@ -292,7 +293,7 @@ c c
 F u
 ** push
 P u
-* chapter 5 - clojure
+* chapter 6 - clojure
 ** cider shortcuts
 , ,
 ** cider jack in
@@ -315,7 +316,7 @@ C-c M-o
 C-c C-u
 ** cider repl interrupt evaluation
 C-c C-c
-* chapter 6 - c++
+* chapter 7 - c++
 ** compile
 SPC c C
 ** make
