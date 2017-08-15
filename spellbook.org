@@ -287,9 +287,9 @@ SPC s c
 TAB
 ** cycle outline modes (document)
 S-TAB
-** add heading
+** add headline
 C-RET
-** add heading (todo)
+** add headline (todo)
 S-M-RET
 ** update counter (single)
 C-c #
