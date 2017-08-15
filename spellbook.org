@@ -295,6 +295,8 @@ S-M-RET
 C-c C-t / t
 ** toggle checkbox state
 C-c C-c
+** jump to location
+C-c C-j
 ** update counter (single)
 C-c #
 ** update counter (all)
