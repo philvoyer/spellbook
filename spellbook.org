@@ -291,6 +291,8 @@ S-TAB
 C-RET
 ** add heading (todo)
 S-M-RET
+** update counter (single)
+C-c #
 * chapter 5 - git
 ** magit status
 SPC g s
