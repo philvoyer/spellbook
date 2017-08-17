@@ -136,6 +136,8 @@ C-c p f
 C-c p p
 ** projectile search occurrences
 C-c p o
+** projectile kill project buffers
+C-c p k
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
