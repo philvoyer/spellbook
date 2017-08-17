@@ -49,6 +49,8 @@ SPC w 3
 SPC w =
 ** window swap
 SPC w M
+** window maximize toggle
+SPC T M
 ** helm mini
 SPC b b
 ** cycle theme
