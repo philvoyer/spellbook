@@ -6,5 +6,7 @@ Written in a single .org file, thus enabling quick and easy searches in a foldab
 ## chapter 1 - spacemacs
 ## chapter 2 - emacs (holy mode)
 ## chapter 3 - emacs (evil mode)
-## chapter 4 - git 
-## chapter 5 - clojure
+## chapter 4 - org 
+## chapter 5 - git 
+## chapter 6 - clojure
+## chapter 7 - c++
