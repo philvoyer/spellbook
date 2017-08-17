@@ -308,7 +308,7 @@ C-c C-t / t
 C-c C-c
 ** jump to location
 C-c C-j
-** update counter (single)
+** update counter
 C-c #
 * chapter 5 - git
 ** magit status
