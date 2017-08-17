@@ -130,6 +130,8 @@ C-w =
 M-v
 ** scroll down
 C-v
+** projectile find file
+C-c p f
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
