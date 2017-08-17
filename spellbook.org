@@ -132,6 +132,8 @@ M-v
 C-v
 ** projectile find file
 C-c p f
+** projectile search occurrences
+C-c p o
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
