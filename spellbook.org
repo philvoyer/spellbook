@@ -51,6 +51,8 @@ SPC w =
 SPC w M
 ** window maximize toggle
 SPC T M
+** window full screen toggle
+SPC T F
 ** helm mini
 SPC b b
 ** cycle theme
