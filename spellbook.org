@@ -310,8 +310,6 @@ C-c C-c
 C-c C-j
 ** update counter (single)
 C-c #
-** update counter (all)
-C-u C-c C-#
 * chapter 5 - git
 ** magit status
 SPC g s
