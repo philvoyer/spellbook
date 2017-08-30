@@ -306,6 +306,8 @@ S-M-RET
 M-k / M-up
 ** headline move down
 M-j / M-down
+** headline jump up
+C-c C-u
 ** headline cycle state
 C-c C-t / t
 ** toggle checkbox state
