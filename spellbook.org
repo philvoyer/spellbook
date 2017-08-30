@@ -298,15 +298,15 @@ SPC s c
 TAB
 ** cycle outline modes (document)
 S-TAB
-** add headline
+** headline add
 C-RET
-** add headline (todo)
+** headline add todo
 S-M-RET
-** move headline up
+** headline move up
 M-k / M-up
-** move headline down
+** headline move down
 M-j / M-down
-** cycle headline state
+** headline cycle state
 C-c C-t / t
 ** toggle checkbox state
 C-c C-c
