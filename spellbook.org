@@ -81,6 +81,8 @@ SPC w p m
 SPC w p p
 ** sort lines
 SPC x l s
+** expand selection
+SPC v
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
