@@ -311,7 +311,7 @@ C-c C-u
 ** headline cycle state
 C-c C-t / t
 ** toggle checkbox state
-C-c C-c
+C-c C-c / , ,
 ** jump to location
 C-c C-j
 ** update counter
