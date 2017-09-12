@@ -148,6 +148,8 @@ C-c p k
 M-u
 ** lower case word
 M-l
+** upper case region
+C-x C-u
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
