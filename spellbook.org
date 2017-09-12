@@ -146,6 +146,8 @@ C-c p o
 C-c p k
 ** upper case word
 M-u
+** lower case word
+M-l
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
