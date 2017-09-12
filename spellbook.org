@@ -144,6 +144,8 @@ C-c p p
 C-c p o
 ** projectile kill project buffers
 C-c p k
+** upper case word
+M-u
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
