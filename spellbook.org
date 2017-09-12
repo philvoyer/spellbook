@@ -152,6 +152,8 @@ M-l
 C-x C-u
 ** lower case region
 C-x C-l
+** capitalize word
+M-c
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
