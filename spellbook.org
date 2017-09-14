@@ -277,6 +277,8 @@ gj
 gk
 ** section next visible
 gl
+** fold toggle
+za
 ** fold close
 zc
 ** fold open
