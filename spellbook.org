@@ -279,6 +279,8 @@ gk
 gl
 ** fold close
 zc
+** fold open
+zo
 ** fold close all
 zm
 ** fold open all
