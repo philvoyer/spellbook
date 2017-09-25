@@ -90,9 +90,9 @@ C-c p p
 ** projectile search occurrences
 C-c p o
 ** projectile replace
-C-c p r
+C-c p r / SPC p R
 ** projectile kill project buffers
-C-c p k
+C-c p k / SPC p k
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
