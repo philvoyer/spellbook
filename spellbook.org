@@ -83,6 +83,16 @@ SPC w p p
 SPC x l s
 ** expand selection
 SPC v
+** projectile find file
+C-c p f
+** projectile find project
+C-c p p
+** projectile search occurrences
+C-c p o
+** projectile replace
+C-c p r
+** projectile kill project buffers
+C-c p k
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
@@ -136,16 +146,6 @@ C-w =
 M-v
 ** scroll down
 C-v
-** projectile find file
-C-c p f
-** projectile find project
-C-c p p
-** projectile search occurrences
-C-c p o
-** projectile replace
-C-c p r
-** projectile kill project buffers
-C-c p k
 ** upper case word
 M-u
 ** lower case word
