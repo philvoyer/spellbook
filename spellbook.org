@@ -146,6 +146,8 @@ C-w =
 M-v
 ** scroll down
 C-v
+** text zoom in
+C-x C-+
 ** upper case word
 M-u
 ** lower case word
