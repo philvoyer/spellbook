@@ -347,6 +347,8 @@ C-c #
 * chapter 5 - git
 ** magit status
 SPC g s
+** file history
+SPC g f h
 ** commit
 c c
 ** commit message
