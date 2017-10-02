@@ -285,6 +285,8 @@ gj
 gk
 ** section next visible
 gl
+** reselect
+gv
 ** fold toggle
 za
 ** fold close
