@@ -86,7 +86,7 @@ SPC x l s
 ** expand selection
 SPC v
 ** projectile find file
-C-c p f
+C-c p f / SPC p f
 ** projectile find project
 C-c p p
 ** projectile search occurrences
