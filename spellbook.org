@@ -88,7 +88,7 @@ SPC v
 ** projectile find file
 C-c p f / SPC p f
 ** projectile find project
-C-c p p
+C-c p p / SPC p p
 ** projectile search occurrences
 C-c p o
 ** projectile replace
