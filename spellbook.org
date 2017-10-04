@@ -279,6 +279,8 @@ yyp
 o
 ** line open above
 O (S-o)
+** line comment
+gcc
 ** section previous up
 gh
 ** section next same level
