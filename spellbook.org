@@ -253,6 +253,8 @@ b
 yaw
 ** word delete
 dw
+** word delete and insert
+cw
 ** word delete around
 daw
 ** word swap next
