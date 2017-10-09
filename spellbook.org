@@ -162,6 +162,8 @@ C-x C-u
 C-x C-l
 ** capitalize word
 M-c
+** indent rigidly
+C-x TAB
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
