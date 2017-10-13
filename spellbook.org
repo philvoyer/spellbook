@@ -55,6 +55,8 @@ SPC w M
 SPC T M
 ** window fullscreen toggle
 SPC T F
+** buffer maximize toggle
+SPC w m
 ** helm mini
 SPC b b
 ** cycle theme
