@@ -401,3 +401,5 @@ SPC c c
 * chapter 8 - c#
 ** go to definition 
 SPC m g g
+** symbol type
+SPC m h t
