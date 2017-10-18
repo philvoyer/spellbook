@@ -403,3 +403,5 @@ SPC c c
 SPC m g g
 ** symbol type
 SPC m h t
+** find symbol in project
+SPC m g s
