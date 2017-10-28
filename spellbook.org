@@ -407,3 +407,5 @@ SPC m g s
 * chapter 9 - latex
 ** build
 SPC m b
+** view
+SPC m v
