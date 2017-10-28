@@ -411,3 +411,5 @@ SPC m b
 SPC m v
 ** preview buffer
 SPC m p
+** preview document
+SPC m d
