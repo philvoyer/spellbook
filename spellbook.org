@@ -405,3 +405,5 @@ SPC m h t
 ** find symbol in project
 SPC m g s
 * chapter 9 - latex
+** build
+SPC m b
