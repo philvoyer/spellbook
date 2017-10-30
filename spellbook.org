@@ -415,3 +415,5 @@ SPC m p
 SPC m d
 ** bold
 SPC m x b
+** italic
+SPC m x i
