@@ -419,3 +419,5 @@ SPC m x b
 SPC m x i
 ** emphasis
 SPC m x e
+** clear format
+SPC m x r
