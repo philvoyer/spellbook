@@ -413,3 +413,5 @@ SPC m v
 SPC m p
 ** preview document
 SPC m d
+** bold
+SPC m x b
