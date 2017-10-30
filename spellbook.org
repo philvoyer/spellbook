@@ -417,3 +417,5 @@ SPC m d
 SPC m x b
 ** italic
 SPC m x i
+** emphasis
+SPC m x e
