@@ -87,6 +87,8 @@ SPC w p p
 SPC x l s
 ** expand selection
 SPC v
+** projectile recent file
+SPC p r
 ** projectile find file
 C-c p f / SPC p f
 ** projectile find project
