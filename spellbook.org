@@ -325,6 +325,8 @@ v
 V (S-v)
 ** visual block
 C-v
+** search character forward
+f
 ** search forward
 /
 ** search backward
