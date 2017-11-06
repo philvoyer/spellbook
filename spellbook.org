@@ -327,6 +327,8 @@ V (S-v)
 C-v
 ** search character forward
 f
+** search character backward
+F
 ** search forward
 /
 ** search backward
