@@ -59,6 +59,8 @@ SPC T F
 SPC w m
 ** helm mini
 SPC b b
+** reveal in finder
+SPC b f
 ** cycle theme
 SPC T n
 ** search web
