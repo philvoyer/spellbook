@@ -23,6 +23,8 @@ SPC b b
 SPC b n
 ** revert buffer
 SPC b R
+** save as
+CMD SHIFT S
 ** buffer transient state
 SPC b .
 ** project file tree
