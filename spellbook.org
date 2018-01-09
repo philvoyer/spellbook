@@ -362,6 +362,8 @@ C-c C-u
 C-c C-t / t
 ** toggle checkbox state
 C-c C-c / , ,
+** toggle checkbox state region
+C-c C-x C-b
 ** jump to location
 C-c C-j
 ** update counter
