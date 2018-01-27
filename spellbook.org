@@ -19,6 +19,8 @@ SPC f e R
 SPC f f
 ** switch to buffer
 SPC b b
+** previous buffer
+SPC b p
 ** next buffer
 SPC b n
 ** revert buffer
