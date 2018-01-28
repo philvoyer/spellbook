@@ -384,6 +384,8 @@ C-c C-j
 ** update counter
 C-c #
 * chapter 6 - markdown
+** bold
+SPC m x b
 * chapter 7 - c++
 ** compile
 SPC c C
