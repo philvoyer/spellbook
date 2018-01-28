@@ -345,7 +345,20 @@ F
 g*
 ** search highlight clear
 SPC s c
-* chapter 4 - org
+* chapter 4 - git
+** magit status
+SPC g s
+** file history
+SPC g f h
+** commit
+c c
+** commit message
+, ,
+** pull
+F u
+** push
+P u
+* chapter 5 - org
 ** outline modes cycle local
 TAB
 ** outline modes cycle document
@@ -370,20 +383,24 @@ C-c C-x C-b
 C-c C-j
 ** update counter
 C-c #
-* chapter 5 - git
-** magit status
-SPC g s
-** file history
-SPC g f h
-** commit
-c c
-** commit message
-, ,
-** pull
-F u
-** push
-P u
-* chapter 6 - clojure
+* chapter 6 - markdown
+* chapter 7 - c++
+** compile
+SPC c C
+** make
+SPC c c
+** open matching file (same buffer)
+SPC m g a
+** open matching file (another buffer)
+SPC m g A
+* chapter 8 - c#
+** go to definition 
+SPC m g g
+** symbol type
+SPC m h t
+** find symbol in project
+SPC m g s
+* chapter 9 - clojure
 ** cider shortcuts
 , ,
 ** cider jack in
@@ -406,23 +423,7 @@ C-c M-o
 C-c C-u
 ** cider repl interrupt evaluation
 C-c C-c
-* chapter 7 - c++
-** compile
-SPC c C
-** make
-SPC c c
-** open matching file (same buffer)
-SPC m g a
-** open matching file (another buffer)
-SPC m g A
-* chapter 8 - c#
-** go to definition 
-SPC m g g
-** symbol type
-SPC m h t
-** find symbol in project
-SPC m g s
-* chapter 9 - latex
+* chapter 10 - latex
 ** build
 SPC m b
 ** view
