@@ -388,6 +388,8 @@ C-c #
 SPC m x b
 ** italic
 SPC m x i
+** code
+SPC m x c
 * chapter 7 - c++
 ** compile
 SPC c C
