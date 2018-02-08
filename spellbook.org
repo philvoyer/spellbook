@@ -319,6 +319,8 @@ u
 C-R (C-S-r)
 ** mode insert
 i
+** mode insert at begin of line
+I
 ** mode insert exit
 ESC / f d (quickly)
 ** mode append
