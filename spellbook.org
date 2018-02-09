@@ -281,6 +281,8 @@ V (S-v)
 yy
 ** line delete
 dd
+** line delete to end
+d$
 ** line swap next
 ddp
 ** line swap previous
