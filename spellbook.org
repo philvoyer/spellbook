@@ -142,6 +142,8 @@ M-g M-g
 C-a
 ** move to end of line
 C-e
+** line delete to end
+C-k
 ** search occurrences
 M-s o
 ** recenter top bottom
