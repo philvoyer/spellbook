@@ -283,6 +283,8 @@ yy
 dd
 ** line delete to end
 d$
+** line delete to begin
+d^
 ** line swap next
 ddp
 ** line swap previous
