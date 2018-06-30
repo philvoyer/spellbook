@@ -368,7 +368,7 @@ c c
 F u
 ** push
 P u
-** discard
+** revert
 _ o
 ** expand / collapse
 TAB
