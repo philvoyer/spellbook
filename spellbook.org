@@ -370,6 +370,8 @@ F u
 P u
 ** discard
 _ o
+** expand / collapse
+TAB
 * chapter 5 - org
 ** outline modes cycle local
 TAB
