@@ -366,6 +366,8 @@ c c
 F u
 ** push
 P u
+** discard
+_ o
 * chapter 5 - org
 ** outline modes cycle local
 TAB
