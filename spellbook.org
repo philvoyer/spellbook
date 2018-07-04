@@ -379,9 +379,9 @@ TAB
 TAB
 ** outline modes cycle document
 S-TAB
-** headline add
+** add headline
 C-RET
-** headline add todo
+** add todo
 S-M-RET
 ** headline move up
 M-k / M-up
