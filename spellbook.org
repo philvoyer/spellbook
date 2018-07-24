@@ -109,6 +109,8 @@ C-c p k / SPC p k
 SPC t f
 ** sexp parenthesis open
 SPC k j
+** sexp parenthesis close
+SPC k k
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
