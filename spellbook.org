@@ -107,6 +107,8 @@ C-c p r / SPC p R
 C-c p k / SPC p k
 ** show column indicator
 SPC t f
+** sexp parenthesis open
+SPC k j
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
