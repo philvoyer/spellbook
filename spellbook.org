@@ -451,6 +451,8 @@ C-c M-o
 C-c C-u
 ** cider repl interrupt evaluation
 C-c C-c
+** doc lookup
+K (S-k)
 * chapter 10 - latex
 ** build
 SPC m b
