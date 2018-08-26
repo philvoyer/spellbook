@@ -91,6 +91,8 @@ SPC w p m
 SPC w p p
 ** sort lines
 SPC x l s
+** uniquify lines
+SPC x l u
 ** expand selection
 SPC v
 ** projectile recent file
