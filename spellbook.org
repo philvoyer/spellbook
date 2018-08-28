@@ -447,6 +447,8 @@ C-c M-n
 C-c C-k
 ** evaluate function
 C-c C-c
+** evaluate expression
+C-c C-e
 ** cider repl switch (clj / cljs)
 C-c M-o
 ** cider repl kill from prompt to point
