@@ -440,7 +440,7 @@ C-c M-J / , "
 ** cider quit
 C-c C-q
 ** switch to (repl / code)
-C-c C-z
+C-c C-z / , s s
 ** set namespace
 C-c M-n
 ** evaluate buffer
