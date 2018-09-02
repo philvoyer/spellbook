@@ -47,6 +47,8 @@ SPC a u
 SPC '
 ** toggle line numbers
 SPC t n
+** toggle golden ratio
+SPC t g
 ** window layout 2 columns
 SPC w 2
 ** window layout 3 columns
