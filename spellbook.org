@@ -176,6 +176,8 @@ C-v
 C-x C--
 ** text zoom in
 C-x C-+
+** text zoom transient state
+SPC z f
 ** upper case word
 M-u
 ** lower case word
