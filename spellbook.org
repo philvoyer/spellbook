@@ -75,6 +75,8 @@ SPC a /
 SPC x c
 ** edit multiple
 SPC s e
+** toggle whitespace mode
+SPC t w
 ** delete trailing whitespace
 SPC x d w
 ** jump to overview
