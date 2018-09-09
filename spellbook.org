@@ -77,6 +77,8 @@ SPC x c
 SPC s e
 ** toggle whitespace mode
 SPC t w
+** disable whitespace mode locally
+SPC t W
 ** delete trailing whitespace
 SPC x d w
 ** jump to overview
