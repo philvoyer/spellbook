@@ -194,6 +194,8 @@ C-x C-l
 M-c
 ** indent rigidly
 C-x TAB
+** unfill toggle
+M-q
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
