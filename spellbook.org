@@ -196,6 +196,8 @@ M-c
 C-x TAB
 ** unfill toggle
 M-q
+** toggle auto fill mode
+SPC t F
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
