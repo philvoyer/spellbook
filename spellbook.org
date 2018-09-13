@@ -198,6 +198,8 @@ C-x TAB
 M-q
 ** toggle auto fill mode
 SPC t F
+** centered point globally
+SPC t C--
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
