@@ -441,6 +441,8 @@ SPC m g a
 SPC m g A
 ** go to beginning of statement
 M-a
+** go to end of statement
+M-e
 * chapter 8 - c#
 ** go to definition
 SPC m g g
