@@ -63,6 +63,8 @@ SPC T M
 SPC T F
 ** window winner undo
  SPC w u
+** window winner redo
+ SPC w U
 ** buffer maximize toggle
 SPC w m
 ** helm mini
