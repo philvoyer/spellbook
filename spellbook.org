@@ -439,6 +439,8 @@ SPC c c
 SPC m g a
 ** open matching file (another buffer)
 SPC m g A
+** go to beginning of statement
+M-a
 * chapter 8 - c#
 ** go to definition
 SPC m g g
