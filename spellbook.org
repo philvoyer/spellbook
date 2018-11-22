@@ -61,6 +61,8 @@ SPC w M
 SPC T M
 ** window fullscreen toggle
 SPC T F
+** window transparency toggle
+SPC T T
 ** window winner undo
  SPC w u
 ** window winner redo
