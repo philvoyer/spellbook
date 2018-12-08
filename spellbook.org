@@ -209,6 +209,8 @@ SPC t C--
 * chapter 3 - emacs (evil mode)
 ** quit
 :q
+** buffer delete
+:bd
 ** buffer begin
 gg
 ** buffer end
