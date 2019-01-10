@@ -331,6 +331,8 @@ o
 O (S-o)
 ** line comment
 gcc
+** invert case
+g~
 ** section previous up
 gh
 ** section next same level
