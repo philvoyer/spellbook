@@ -373,6 +373,8 @@ A
 v
 ** visual select line
 V (S-v)
+** visual select paragraph
+vip
 ** visual block
 C-v
 ** search character forward
