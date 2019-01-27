@@ -402,6 +402,8 @@ SPC g f h
 c c
 ** amend
 c a
+** extend
+c e
 ** reword
 c w
 ** commit message
