@@ -400,6 +400,8 @@ SPC g s
 SPC g f h
 ** commit
 c c
+** amend
+c a
 ** commit message
 , ,
 ** pull
