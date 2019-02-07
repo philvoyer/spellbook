@@ -504,6 +504,8 @@ C-c C-c
 ** doc lookup
 K (S-k)
 * chapter 10 - latex
+** set master file
+C-c _
 ** build
 SPC m b
 ** view
