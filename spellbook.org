@@ -443,6 +443,8 @@ C-c C-x C-b
 C-c C-j
 ** update counter
 C-c #
+** navigate table
+TAB
 * chapter 6 - markdown
 ** bold
 SPC m x b
