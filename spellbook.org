@@ -524,3 +524,5 @@ SPC m x i
 SPC m x e
 ** clear format
 SPC m x r
+** section
+SPC m s
