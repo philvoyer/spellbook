@@ -127,6 +127,8 @@ SPC t f
 SPC k j
 ** sexp parenthesis close
 SPC k k
+** open in external application
+SPC f o
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
