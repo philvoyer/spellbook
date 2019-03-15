@@ -160,6 +160,8 @@ C-y
 M-y
 ** undo
 C-/
+** redo
+C-?
 ** query replace
 M-%
 ** go to line
