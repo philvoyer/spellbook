@@ -345,6 +345,8 @@ gj
 gk
 ** section next visible
 gl
+** select all text
+ggVG
 ** reselect
 gv
 ** fold toggle
