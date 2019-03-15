@@ -158,6 +158,8 @@ M-w
 C-y
 ** paste pop
 M-y
+** undo
+C-/
 ** query replace
 M-%
 ** go to line
