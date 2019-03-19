@@ -13,6 +13,8 @@ SPC b h
 SPC f e v
 ** open dotfile
 SPC f e d
+** open project
+SPC p p
 ** reload dotfile
 SPC f e R
 ** find file
