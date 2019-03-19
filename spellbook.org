@@ -25,6 +25,8 @@ SPC b p
 SPC b n
 ** revert buffer
 SPC b R
+** save buffer
+SPC f s
 ** save as
 CMD SHIFT S
 ** buffer transient state
