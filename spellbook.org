@@ -11,10 +11,14 @@ SPC q R
 SPC b h
 ** spacemacs version
 SPC f e v
-** open dotfile
-SPC f e d
 ** open project
 SPC p p
+** open dotfile
+SPC f e d
+** open in external application
+SPC f o
+** open shell
+SPC '
 ** reload dotfile
 SPC f e R
 ** find file
@@ -47,8 +51,6 @@ SPC b m
 SPC r y
 ** undo tree
 SPC a u
-** open shell
-SPC '
 ** toggle line numbers
 SPC t n
 ** toggle golden ratio
@@ -131,8 +133,7 @@ SPC t f
 SPC k j
 ** sexp parenthesis close
 SPC k k
-** open in external application
-SPC f o
+
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
