@@ -133,7 +133,7 @@ SPC t f
 SPC k j
 ** sexp parenthesis close
 SPC k k
-** swoosh
+** swoop
 SPC s s
 * chapter 2 - emacs (holy mode)
 ** leader key
