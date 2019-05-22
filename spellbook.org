@@ -35,6 +35,8 @@ SPC b R
 SPC f s
 ** save as
 CMD SHIFT S
+** rename buffer
+SPC f R
 ** buffer transient state
 SPC b .
 ** project file tree
