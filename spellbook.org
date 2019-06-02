@@ -432,6 +432,8 @@ P u
 _ o
 ** discard
 x
+** rebase
+r
 ** expand / collapse
 TAB
 * chapter 5 - org
