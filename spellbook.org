@@ -436,6 +436,8 @@ x
 r
 ** merge
 m
+** stash
+z
 ** expand / collapse
 TAB
 * chapter 5 - org
