@@ -212,6 +212,8 @@ C-x C-u
 C-x C-l
 ** capitalize word
 M-c
+** indent region
+C-M-\
 ** indent rigidly
 C-x TAB
 ** unfill toggle
