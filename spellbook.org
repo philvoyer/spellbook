@@ -180,6 +180,8 @@ C-a
 C-e
 ** line delete to end
 C-k
+** comment region
+C-c C-c
 ** search occurrences
 M-s o
 ** recenter top bottom
