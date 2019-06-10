@@ -513,6 +513,8 @@ SPC m g s
 C-c M-j / , '
 ** cider jack in cljs
 C-c M-J / , "
+** cider restart
+C-c M-r
 ** cider quit
 C-c C-q
 ** switch to (repl / code)
