@@ -537,6 +537,8 @@ C-c C-c
 K (S-k)
 ** test run all tests
 SPC m t a
+** test show report
+SPC m t b
 * chapter 10 - latex
 ** set master file
 C-c _
