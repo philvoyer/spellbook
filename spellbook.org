@@ -523,7 +523,7 @@ C-c C-z / , s s
 C-c M-n
 ** evaluate buffer
 C-c C-k
-** evaluate function
+** evaluate function at point
 C-c C-c
 ** evaluate expression
 C-c C-e
