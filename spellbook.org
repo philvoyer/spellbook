@@ -367,6 +367,8 @@ gl
 ggVG
 ** reselect
 gv
+** jump to definition
+gd
 ** fold toggle
 za
 ** fold close
