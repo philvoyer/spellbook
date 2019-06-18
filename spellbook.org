@@ -137,6 +137,8 @@ SPC k j
 SPC k k
 ** swoop
 SPC s s
+** insert snippet
+SPC i s
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
