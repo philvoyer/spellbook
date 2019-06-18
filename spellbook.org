@@ -529,6 +529,8 @@ C-c C-k
 C-c C-c
 ** evaluate last expression
 C-c C-e
+** browse namespaces
+SPC m g n
 ** cider repl switch (clj / cljs)
 C-c M-o
 ** cider repl kill from prompt to point
