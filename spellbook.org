@@ -479,6 +479,8 @@ C-c #
 TAB
 ** sum of table column
 C-c +
+** toggle coordinate overlays
+C-c }
 * chapter 6 - markdown
 ** bold
 SPC m x b
