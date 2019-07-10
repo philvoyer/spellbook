@@ -440,6 +440,8 @@ P u
 _ o
 ** discard
 x
+** delete
+K
 ** rebase
 r
 ** merge
