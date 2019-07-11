@@ -465,6 +465,8 @@ M-k / M-up
 M-j / M-down
 ** headline jump up
 C-c C-u
+** indentation more
+M-S right
 ** headline cycle state
 C-c C-t / t
 ** toggle checkbox state
