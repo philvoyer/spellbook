@@ -448,6 +448,8 @@ r
 m
 ** stash
 z
+** log
+ll
 ** expand / collapse
 TAB
 * chapter 5 - org
