@@ -237,6 +237,8 @@ SPC t C--
 gg
 ** buffer end
 G (S-g)
+** buffer previous
+C-6
 ** move left down up right
 h j k l
 ** move to line first last middle
