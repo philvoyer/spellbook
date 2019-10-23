@@ -424,6 +424,8 @@ K (S-k)
 SPC g s
 ** file history
 SPC g f h
+** open file link
+SPC g l l
 ** commit
 c c
 ** amend
