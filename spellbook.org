@@ -357,6 +357,8 @@ o
 O (S-o)
 ** line comment
 gcc
+** last change
+g ;
 ** invert case
 g~
 ** section previous up
