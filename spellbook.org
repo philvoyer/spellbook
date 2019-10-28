@@ -369,6 +369,8 @@ gj
 gk
 ** section next visible
 gl
+** middle of visual line
+gm
 ** select all text
 ggVG
 ** reselect
