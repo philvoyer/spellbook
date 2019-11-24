@@ -427,6 +427,8 @@ g*
 SPC s c
 ** search definition
 K (S-k)
+** exchange region
+gx
 * chapter 4 - git
 ** magit status
 SPC g s
