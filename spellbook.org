@@ -469,7 +469,7 @@ m
 ** stash
 z
 ** log
-ll
+l l
 ** diff
 e
 ** expand / collapse
