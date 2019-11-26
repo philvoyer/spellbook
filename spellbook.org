@@ -432,6 +432,8 @@ gx
 * chapter 4 - git
 ** magit status
 SPC g s
+** checkout
+b b
 ** file history
 SPC g f h
 ** open file link
