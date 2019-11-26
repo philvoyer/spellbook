@@ -434,6 +434,8 @@ gx
 SPC g s
 ** checkout
 b b
+** branch
+b c
 ** file history
 SPC g f h
 ** open file link
