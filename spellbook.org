@@ -450,6 +450,8 @@ c e
 c w
 ** commit message
 , ,
+** fetch
+f u
 ** pull
 F u
 ** push
