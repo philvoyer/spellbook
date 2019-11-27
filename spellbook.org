@@ -594,6 +594,8 @@ SPC m x b
 SPC m x i
 ** emphasis
 SPC m x e
+** code
+SPC m x c
 ** clear format
 SPC m x r
 ** section
