@@ -143,6 +143,8 @@ SPC k k
 SPC s s
 ** insert snippet
 SPC i s
+** eshell kill process
+C-c C-k
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
