@@ -143,6 +143,8 @@ SPC k k
 SPC s s
 ** insert snippet
 SPC i s
+** eshell kill input
+C-c C-u
 ** eshell kill process
 C-c C-k
 * chapter 2 - emacs (holy mode)
