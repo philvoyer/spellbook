@@ -308,7 +308,7 @@ C-n
 ** character delete next
 x
 ** character delete previous
-X (S-x)
+X
 ** character swap next
 xp
 ** character swap previous
