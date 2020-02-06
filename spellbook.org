@@ -423,6 +423,8 @@ F
 /
 ** search backward
 ? (S-/)
+** search previous
+N (S-n)
 ** search word under point
 (S-8) *
 ** search word under point unbound
