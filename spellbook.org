@@ -126,7 +126,7 @@ C-c p p / SPC p p
 ** projectile find project root in neotree
 SPC p t
 ** projectile search occurrences
-C-c p o
+C-c p o (broken?)
 ** projectile replace
 C-c p r / SPC p R
 ** projectile kill project buffers
