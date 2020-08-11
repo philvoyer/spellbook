@@ -365,6 +365,8 @@ O (S-o)
 gcc
 ** last change
 g;
+** lower case region
+u
 ** invert case
 g~
 ** section previous up
