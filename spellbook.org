@@ -147,6 +147,8 @@ SPC i s
 C-c C-u
 ** eshell kill process
 C-c C-k
+** open deft
+SPC a n
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
