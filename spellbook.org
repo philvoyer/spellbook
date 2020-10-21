@@ -439,6 +439,8 @@ SPC s c
 K (S-k)
 ** exchange region
 gx
+** delete all blank lines
+:g/^$/d
 * chapter 4 - git
 ** magit status
 SPC g s
