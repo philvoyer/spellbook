@@ -85,6 +85,8 @@ SPC b f
 SPC T n
 ** smart search
 SPC /
+** helm ag edit
+C-c C-e
 ** search web
 SPC a /
 ** count region
