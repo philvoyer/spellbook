@@ -1,5 +1,7 @@
 #+TITLE: spellbook
 
+m n + ` n > ?!
+
 * chapter 1 - spacemacs
 ** leader key
 SPC
@@ -88,7 +90,7 @@ SPC /
 ** helm ag edit
 C-c C-e
 ** search web
-SPC a /
+SPC a w /
 ** count region
 SPC x c
 ** edit multiple
