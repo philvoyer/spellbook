@@ -333,6 +333,8 @@ w
 e
 ** word previous begin
 b
+** word select around
+vaw
 ** word yank around
 yaw
 ** word delete
