@@ -1,7 +1,5 @@
 #+TITLE: spellbook
 
-m n + ` n > ?!
-
 * chapter 1 - spacemacs
 ** leader key
 SPC
