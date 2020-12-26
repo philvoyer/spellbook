@@ -30,7 +30,7 @@ SPC b b
 ** previous buffer
 SPC b p / C-x ←
 ** next buffer
-SPC b n
+SPC b n / C-x →
 ** revert buffer
 SPC b R
 ** save buffer
