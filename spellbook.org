@@ -456,6 +456,8 @@ b c
 SPC g f h
 ** time machine
 SPC g t
+** blame
+SPC g b
 ** open file link
 SPC g l l
 ** commit
