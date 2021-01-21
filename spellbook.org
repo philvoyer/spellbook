@@ -369,6 +369,8 @@ o
 O (S-o)
 ** line comment
 gcc
+** shift left
+< (S-,)
 ** last change
 g;
 ** lower case region
