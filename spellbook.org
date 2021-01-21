@@ -371,6 +371,8 @@ O (S-o)
 gcc
 ** shift left
 < (S-,)
+** shift right
+> (S-.)
 ** last change
 g;
 ** lower case region
