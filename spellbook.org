@@ -251,6 +251,8 @@ gg
 G (S-g)
 ** buffer previous
 C-6
+** buffer previous nth
+nth C-6
 ** move left down up right
 h j k l
 ** move to line first last middle
