@@ -466,6 +466,8 @@ SPC g t
 SPC g b
 ** open file link
 SPC g l l
+** commit message of current line
+SPC g M
 ** commit
 c c
 ** amend
