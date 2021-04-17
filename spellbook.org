@@ -472,6 +472,8 @@ SPC g M
 SPC g S
 ** unstage current file
 SPC g U
+** highlight commit
+SPC g H
 ** commit
 c c
 ** amend
