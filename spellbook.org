@@ -468,6 +468,8 @@ SPC g b
 SPC g l l
 ** commit message of current line
 SPC g M
+** stage current file
+SPC g S
 ** commit
 c c
 ** amend
