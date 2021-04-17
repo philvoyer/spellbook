@@ -470,6 +470,8 @@ SPC g l l
 SPC g M
 ** stage current file
 SPC g S
+** unstage current file
+SPC g U
 ** commit
 c c
 ** amend
