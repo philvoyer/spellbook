@@ -580,7 +580,7 @@ SPC m g s
 ** cider shortcuts
 , ,
 ** cider jack in
-C-c M-j / , ' / SPC m s i
+C-c M-j / , ' / SPC m s i / SPC m s j j
 ** cider jack in cljs
 C-c M-J / , " / SPC m s i
 ** cider restart
