@@ -614,7 +614,7 @@ SPC m t b
 ** go to end of sexp
 SPC k $
 ** evaluate at point
-, e f
+C-M-x / , e f
 * chapter 10 - latex
 ** set master file
 C-c _
