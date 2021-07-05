@@ -107,6 +107,8 @@ SPC t S
 SPC S d
 ** spell check buffer
 SPC S b
+** spell check at point
+SPC S s
 ** spell check correct word at point
 C-c $
 ** show message buffer
