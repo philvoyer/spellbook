@@ -247,6 +247,8 @@ SPC t C--
 :bd
 ** buffer save
 :w
+** buffer open
+:e
 ** buffer begin
 gg
 ** buffer end
