@@ -375,6 +375,8 @@ o
 O (S-o)
 ** line comment
 gcc
+** line next first non blank
++
 ** shift left
 < (S-,)
 ** shift right
