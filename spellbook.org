@@ -143,6 +143,8 @@ SPC t f
 SPC k j
 ** sexp parenthesis close
 SPC k k
+** sexp parenthesis transpose
+SPC k t
 ** swoop
 SPC s s
 ** insert snippet
