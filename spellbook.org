@@ -455,6 +455,8 @@ g*
 SPC s c
 ** search definition
 K (S-k)
+** go to line
+:123 / 123gg / 123G
 ** exchange region
 gx
 ** delete all blank lines
