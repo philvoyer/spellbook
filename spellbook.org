@@ -117,6 +117,8 @@ SPC w p m
 SPC w p p
 ** sort lines
 SPC x l s
+** randomize lines
+SPC x l r
 ** uniquify lines
 SPC x l u
 ** expand selection
