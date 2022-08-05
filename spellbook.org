@@ -555,6 +555,8 @@ TAB
 C-c +
 ** toggle coordinate overlays
 C-c }
+** add hyperlink
+C-c C-l
 * chapter 6 - markdown
 ** bold
 SPC m x b
