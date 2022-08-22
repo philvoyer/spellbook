@@ -245,6 +245,8 @@ SPC t F
 ** centered point globally
 SPC t C--
 * chapter 3 - emacs (evil mode)
+** repeat command
+.
 ** quit
 :q
 ** buffer delete
