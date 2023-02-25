@@ -467,6 +467,8 @@ K (S-k)
 gx
 ** delete all blank lines
 :g/^$/d
+** insert before multiple lines
+C-v S-i
 * chapter 4 - git
 ** magit status
 SPC g s
