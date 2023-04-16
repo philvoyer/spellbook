@@ -72,9 +72,9 @@ SPC T F
 ** window transparency toggle
 SPC T T
 ** window winner undo
- SPC w u
+SPC w u
 ** window winner redo
- SPC w U
+SPC w U
 ** buffer maximize toggle
 SPC w m
 ** helm mini
@@ -244,6 +244,8 @@ M-q
 SPC t F
 ** centered point globally
 SPC t C--
+** describe variable
+C-h v
 * chapter 3 - emacs (evil mode)
 ** repeat command
 .
