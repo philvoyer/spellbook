@@ -159,6 +159,8 @@ C-c C-k
 SPC a n
 ** file jump dired
 SPC f j
+** file open with default external app
+SPC f o
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
