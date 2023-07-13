@@ -157,6 +157,8 @@ C-c C-u
 C-c C-k
 ** open deft
 SPC a n
+** file jump dired
+SPC f j
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
