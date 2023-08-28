@@ -77,6 +77,8 @@ SPC w u
 SPC w U
 ** buffer maximize toggle
 SPC w m
+** go to other window
+SPC w w
 ** helm mini
 SPC b b
 ** reveal in finder
