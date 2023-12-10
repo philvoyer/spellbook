@@ -254,6 +254,8 @@ SPC t C--
 C-h v
 ** save point to register
 C-x r SPC register-id
+** jump to register
+C-x r j register-id
 * chapter 3 - emacs (evil mode)
 ** repeat command
 .
