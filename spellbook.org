@@ -252,7 +252,7 @@ SPC t F
 SPC t C--
 ** describe variable
 C-h v
-** save point position in register (point to register)
+** save point to register
 C-x r SPC register-id
 * chapter 3 - emacs (evil mode)
 ** repeat command
