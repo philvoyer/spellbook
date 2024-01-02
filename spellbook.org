@@ -147,6 +147,8 @@ SPC t f
 SPC k 0
 ** sexp end
 SPC k $
+** sexp slurp
+SPC k s
 ** sexp parenthesis open
 SPC k j
 ** sexp parenthesis close
