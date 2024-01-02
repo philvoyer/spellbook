@@ -143,6 +143,8 @@ C-c p k / SPC p k
 SPC s g p
 ** show column indicator
 SPC t f
+** sexp begin
+SPC k 0
 ** sexp parenthesis open
 SPC k j
 ** sexp parenthesis close
