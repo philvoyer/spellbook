@@ -145,6 +145,8 @@ SPC s g p
 SPC t f
 ** sexp begin
 SPC k 0
+** sexp end
+SPC k $
 ** sexp parenthesis open
 SPC k j
 ** sexp parenthesis close
