@@ -252,6 +252,8 @@ SPC t F
 SPC t C--
 ** describe variable
 C-h v
+** view register
+M-x view-register
 ** save point to register
 C-x r SPC register-id
 ** jump to register
