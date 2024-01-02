@@ -149,6 +149,8 @@ SPC k 0
 SPC k $
 ** sexp slurp
 SPC k s
+** sexp barf
+SPC k b
 ** sexp parenthesis open
 SPC k j
 ** sexp parenthesis close
