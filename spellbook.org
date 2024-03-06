@@ -494,6 +494,8 @@ C-v S-i
 * chapter 4 - git
 ** magit status
 SPC g s
+** magit status log current
+SPC g s l l
 ** checkout
 b b
 ** branch
