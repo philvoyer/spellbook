@@ -407,6 +407,8 @@ O (S-o)
 gcc
 ** line next first non blank
 +
+** paragraph select
+vap
 ** shift left
 < (S-,)
 ** shift right
