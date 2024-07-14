@@ -23,6 +23,8 @@ SPC '
 SPC f e R
 ** find file
 SPC f f
+** open project
+SPC p p
 ** switch to buffer
 SPC b b
 ** previous buffer
