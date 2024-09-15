@@ -471,6 +471,8 @@ V (S-v)
 vip
 ** select block
 C-v
+** select inside parentheses
+vi)
 ** search character forward
 f
 ** search character backward
