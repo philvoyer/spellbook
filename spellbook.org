@@ -465,11 +465,11 @@ a
 A
 ** mode visual
 v
-** visual select line
+** select line
 V (S-v)
-** visual select paragraph
+** select paragraph
 vip
-** visual block
+** select block
 C-v
 ** search character forward
 f
