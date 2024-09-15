@@ -473,6 +473,8 @@ vip
 C-v
 ** select inside parentheses
 vi)
+** select inside brackets
+vi}
 ** search character forward
 f
 ** search character backward
