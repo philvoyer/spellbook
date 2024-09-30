@@ -671,6 +671,8 @@ SPC m t b
 SPC k $
 ** go to errors list
 , g e
+** go to call hierarchy
+, g h
 ** evaluate at point
 C-M-x / , e f
 * chapter 10 - latex
