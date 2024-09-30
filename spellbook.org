@@ -677,6 +677,8 @@ SPC k $
 , g M
 ** find workspace symbol
 , g s
+** find references
+, g r
 ** evaluate at point
 C-M-x / , e f
 * chapter 10 - latex
