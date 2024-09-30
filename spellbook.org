@@ -673,6 +673,8 @@ SPC k $
 , g e
 ** go to call hierarchy
 , g h
+** go to ui menu
+, g M
 ** evaluate at point
 C-M-x / , e f
 * chapter 10 - latex
