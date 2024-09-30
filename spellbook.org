@@ -675,6 +675,8 @@ SPC k $
 , g h
 ** go to ui menu
 , g M
+** find workspace symbol
+, g s
 ** evaluate at point
 C-M-x / , e f
 * chapter 10 - latex
