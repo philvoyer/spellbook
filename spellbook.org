@@ -178,6 +178,8 @@ SPC f o
 * chapter 2 - emacs (holy mode)
 ** leader key
 M-m
+** eval
+M-:
 ** quit
 C-x C-c
 ** find file
