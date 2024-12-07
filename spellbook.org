@@ -366,7 +366,7 @@ dd
 ** delete line to end
 d$
 ** delete line to begin
-d^
+d0
 ** delete line to first character
 d^
 ** character swap next
