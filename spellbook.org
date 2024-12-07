@@ -369,6 +369,8 @@ d$
 d0
 ** delete line to first character
 d^
+** delete line to begin from point
+d0x
 ** character swap next
 xp
 ** character swap previous
