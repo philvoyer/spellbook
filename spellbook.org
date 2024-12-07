@@ -351,10 +351,24 @@ p
 C-p
 ** paste pop next
 C-n
-** character delete next
+** delete character next
 x
-** character delete previous
+** delete character previous
 X
+** delete word
+dw
+** delete word and insert
+cw
+** delete word around
+daw
+** delete line
+dd
+** delete line to end
+d$
+** delete line to begin
+d^
+** delete line to first character
+d^
 ** character swap next
 xp
 ** character swap previous
@@ -379,12 +393,6 @@ ge
 vaw
 ** word yank around
 yaw
-** word delete
-dw
-** word delete and insert
-cw
-** word delete around
-daw
 ** word swap next
 dawwP
 ** word swap previous
@@ -393,12 +401,6 @@ dawbP
 V (S-v)
 ** line yank
 yy
-** line delete
-dd
-** line delete to end
-d$
-** line delete to begin
-d^
 ** line swap next
 ddp
 ** line swap previous
