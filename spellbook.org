@@ -691,7 +691,7 @@ C-M-x / , e f
 ** set master file
 C-c _
 ** build
-SPC m b
+SPC m c
 ** view
 SPC m v
 ** preview buffer
