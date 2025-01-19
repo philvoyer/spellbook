@@ -401,6 +401,8 @@ dawwP
 dawbP
 ** line select
 V (S-v)
+** line select around
+val
 ** line yank
 yy
 ** line swap next
