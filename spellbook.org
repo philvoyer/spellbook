@@ -420,6 +420,7 @@ gcc
 ** line next first non blank
 +
 ** paragraph select
+** paragraph select around
 vap
 ** shift left
 < (S-,)
