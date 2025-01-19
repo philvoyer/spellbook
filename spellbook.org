@@ -425,6 +425,8 @@ gcc
 vas
 ** paragraph select around
 vap
+** symbol select around
+vao
 ** shift left
 < (S-,)
 ** shift right
