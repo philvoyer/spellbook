@@ -421,7 +421,8 @@ O (S-o)
 gcc
 ** line next first non blank
 +
-** paragraph select
+** sentence select around
+vas
 ** paragraph select around
 vap
 ** shift left
