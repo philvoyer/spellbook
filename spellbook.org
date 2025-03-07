@@ -465,6 +465,8 @@ zm
 zr
 ** undo
 u
+** undo tree
+C-x u
 ** redo
 C-R (C-S-r)
 ** mode insert
