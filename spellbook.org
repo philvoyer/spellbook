@@ -143,6 +143,8 @@ C-c p r / SPC p R
 C-c p k / SPC p k
 ** projectile grep
 SPC s g p
+** navigate project in treemacs
+SPC p t
 ** show column indicator
 SPC t f
 ** sexp begin
