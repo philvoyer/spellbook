@@ -135,8 +135,6 @@ SPC p r
 C-c p f / SPC p f
 ** projectile find project
 C-c p p / SPC p p
-** projectile find project root in neotree
-SPC p t
 ** projectile search occurrences
 C-c p o (broken?)
 ** projectile replace
