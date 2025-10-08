@@ -552,6 +552,8 @@ c e
 c w
 ** commit message
 , ,
+** fetch from upstream
+f p
 ** fetch from origin
 f u
 ** pull
