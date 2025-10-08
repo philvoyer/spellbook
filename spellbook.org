@@ -552,7 +552,7 @@ c e
 c w
 ** commit message
 , ,
-** fetch
+** fetch from origin
 f u
 ** pull
 F u
