@@ -703,6 +703,8 @@ SPC k $
 C-M-x / , e f
 ** send to repl (region)
 , s r
+** send to repl (function)
+, s f
 * chapter 10 - latex
 ** set master file
 C-c _
