@@ -701,6 +701,8 @@ SPC k $
 , g r
 ** evaluate at point
 C-M-x / , e f
+** send to repl (region)
+, s r
 * chapter 10 - latex
 ** set master file
 C-c _
