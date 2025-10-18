@@ -705,6 +705,8 @@ C-M-x / , e f
 , s r
 ** send to repl (function)
 , s f
+** send to repl (last sexp)
+, s e
 * chapter 10 - latex
 ** set master file
 C-c _
