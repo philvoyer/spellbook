@@ -43,6 +43,8 @@ CMD SHIFT S
 SPC f R
 ** buffer transient state
 SPC b .
+** buffer reload
+SPC b R
 ** project file tree
 SPC f t
 ** describe variable
