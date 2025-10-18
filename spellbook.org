@@ -519,6 +519,8 @@ gx
 :g/^$/d
 ** insert before multiple lines
 C-v S-i
+** mutiple cursors clear all
+g r q
 * chapter 4 - git
 ** magit status
 SPC g s
