@@ -433,6 +433,8 @@ vap
 vao
 ** select around string
 va'
+** select around parenthesis
+vab
 ** shift left
 < (S-,)
 ** shift right
