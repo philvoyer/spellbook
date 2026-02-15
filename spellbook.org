@@ -425,7 +425,7 @@ gcc
 +
 ** select around sentence
 vas
-** paragraph select around
+** select around paragraph
 vap
 ** symbol select around
 vao
