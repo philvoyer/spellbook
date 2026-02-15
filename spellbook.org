@@ -431,6 +431,8 @@ vas
 vap
 ** select around symbol
 vao
+** select around string
+va'
 ** shift left
 < (S-,)
 ** shift right
