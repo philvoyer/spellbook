@@ -437,6 +437,8 @@ va'
 vab
 ** select around bracket
 va[ / va]
+** select around curly
+va{ / va}
 ** shift left
 < (S-,)
 ** shift right
