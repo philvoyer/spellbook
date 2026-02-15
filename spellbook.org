@@ -423,7 +423,7 @@ O (S-o)
 gcc
 ** line next first non blank
 +
-** sentence select around
+** select around sentence
 vas
 ** paragraph select around
 vap
