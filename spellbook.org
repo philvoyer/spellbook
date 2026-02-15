@@ -435,6 +435,8 @@ vao
 va'
 ** select around parenthesis
 vab
+** select around bracket
+va[ / va]
 ** shift left
 < (S-,)
 ** shift right
