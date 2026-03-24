@@ -750,3 +750,5 @@ SPC e n
 SPC e p
 ** list issues (flycheck)
 C-c ! l
+** next error (flycheck)
+C-c ! n
