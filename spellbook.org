@@ -742,3 +742,5 @@ SPC m x r
 SPC m s
 
 * chapter 11 - lsp
+** list issues
+SPC e l
