@@ -746,3 +746,5 @@ SPC m s
 SPC e l
 ** next error
 SPC e n
+** previous error
+SPC e p
