@@ -744,3 +744,5 @@ SPC m s
 * chapter 11 - lsp
 ** list issues
 SPC e l
+** next error
+SPC e n
