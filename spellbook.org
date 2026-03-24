@@ -752,3 +752,5 @@ SPC e p
 C-c ! l
 ** next error (flycheck)
 C-c ! n
+** previous error (flycheck)
+C-c ! p
